@@ -4,7 +4,7 @@
 
 I'm a web developer and tech enthusiast that will be so good that will transform me in a reference. All coding projects are built from ground up, from planning and designing all the way to solving daily problems with code.
 
-###🧰 Language and tools
+### 🧰 Language and tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/919/919827.png"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
@@ -13,7 +13,7 @@ I'm a web developer and tech enthusiast that will be so good that will transform
 <img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://godotengine.org/assets/press/logo_vertical_color_light.png"/>
 <img align="left" alt="Gamemaker" width="30px" style="padding-right:10px;" src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico"/>
 <br/>
-#
+
 
 <details>
   <summary>
