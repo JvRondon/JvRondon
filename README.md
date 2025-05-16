@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20" height="20"> JvRondon
+## <img src="assets/JV__1_-removebg-preview" width="20" height="20"> JvRondon
 
 **'Web Developer/Enthusiast'**
 
